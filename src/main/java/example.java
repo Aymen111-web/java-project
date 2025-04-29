@@ -7,7 +7,7 @@
  *
  * @author hp
  */
-public class example3 {
+public class example 9{
     public static void main(String arg[]){
         int age = 2 ;
         if(age>=16){
