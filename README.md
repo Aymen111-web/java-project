@@ -20,6 +20,4 @@ The project demonstrates object-oriented programming concepts and provides a fun
 - **JDK 8+** – Required to compile and run  
 - **Optional Libraries** – Include if you used any (e.g., Swing, JavaFX)  
 
----
 
-## File Structure
